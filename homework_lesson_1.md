@@ -1,13 +1,17 @@
 **Homework: Lesson One**
 
-1. Finish xercise 3 (if you did not complete it in class) ​
+1. Finish Exercise 2 (if we did not complete it in class)
+
+Create a program that asks you how many years you have been at Wash U, and what department you work in. Run the program from the command line. The output should be “Congratulations on working at the X department at Wash U for Y years”.
+
+3. Finish Exercise 3 (if we did not complete it in class) ​
 
 In your text editor, write a program takes in a list of departments at Wash U, sorts them in alphabetical order and outputs the following statement: “X and Y are two departments at Wash U”, where X and Y are the second and third departments alphabetically. Run the program from the command line. ​
 
-We will review the solution at the beginning of class on Wednesday.
+We will review the solutions at the beginning of class on Wednesday.
 
 
-2. Install anaconda, visual studio code and Jupyter Notebook:
+3. Install anaconda, visual studio code and Jupyter Notebook:
 
 **Linux**
 
