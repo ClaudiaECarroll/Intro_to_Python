@@ -10,8 +10,10 @@ In your text editor, write a program takes in a list of departments at Wash U, s
 
 We will review the solutions at the beginning of class on Wednesday.
 
+3. Complete the Class One Exercise Sheet
 
-3. Install anaconda, visual studio code and Jupyter Notebook:
+
+4. Install anaconda, visual studio code and Jupyter Notebook:
 
 **Linux**
 
